@@ -1,3 +1,4 @@
 ancltd.com.tr
 firebasestorage.googleapis.com 
 cimarrontrailers.com
+*.cimarrontrailers.com
